@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 # This is a basic landing page created using React Js and Tailwind CSS
 
-![image](https://github.com/Vigneshreddy625/LandingPage/assets/113472156/0b282cc7-5794-48b5-aafe-5cc09951f13d)
+![image](https://github.com/Vigneshreddy625/LandingPage/assets/113472156/678a2144-2de6-44e7-9b02-e8271247cab4)
